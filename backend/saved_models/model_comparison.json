@@ -1,0 +1,44 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.7657,
+    "precision": 0.4748,
+    "recall": 0.5607,
+    "f1": 0.5142,
+    "roc_auc": 0.7496
+  },
+  "XGBoost (Tuned)": {
+    "accuracy": 0.7052,
+    "precision": 0.4026,
+    "recall": 0.6888,
+    "f1": 0.5082,
+    "roc_auc": 0.7761
+  },
+  "Random Forest": {
+    "accuracy": 0.8053,
+    "precision": 0.5714,
+    "recall": 0.4793,
+    "f1": 0.5213,
+    "roc_auc": 0.7754
+  },
+  "LightGBM": {
+    "accuracy": 0.8187,
+    "precision": 0.6515,
+    "recall": 0.3873,
+    "f1": 0.4858,
+    "roc_auc": 0.7771
+  },
+  "MLP Neural Net": {
+    "accuracy": 0.7928,
+    "precision": 0.5464,
+    "recall": 0.373,
+    "f1": 0.4433,
+    "roc_auc": 0.7315
+  },
+  "CredX Ensemble": {
+    "accuracy": 0.7885,
+    "precision": 0.52,
+    "recall": 0.569,
+    "f1": 0.5434,
+    "roc_auc": 0.7776
+  }
+}
